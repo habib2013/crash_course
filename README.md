@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="assets/images/app_screenshot.png"/>
+<img src="assets/images/app_screenshot.png" style="height:100px;width:60px"/>
